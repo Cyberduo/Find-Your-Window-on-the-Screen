@@ -13,8 +13,8 @@ This little Bash tool will help you grab it, focus it, and bring it back to your
 Make sure the following tools are installed:
 
 bash
-sudo apt install wmctrl
-sudo apt install xdotool
+```sudo apt install wmctrl```
+```sudo apt install xdotool```
 
 🪛 Example Output
 
