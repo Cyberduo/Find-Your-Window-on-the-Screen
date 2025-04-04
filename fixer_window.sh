@@ -2,7 +2,7 @@
 
 # -----------------------------------------------------------
 # Universal Window Fixer - "It's There, But You Can't See It"
-# Author: Inuiti + Alice (GPT)
+# Author: Lukasz Szymulanski
 # Version: 1.2 - April Fools Edition - but it's work
 # ------------------------------------------------------------
 
