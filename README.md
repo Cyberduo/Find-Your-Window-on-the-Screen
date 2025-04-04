@@ -28,8 +28,20 @@ sudo apt install xdotool
 🎯 Selected window: "MyLostWindow.pdf"
 🔧 Fixing window...
 
-✅ The window has been brought to focus and moved to the main screen.
+✅ The window has been brought to focus and moved to the screen in fullsrceen.
 
 
 ✨ Tip
+
+Copy the script to a location in your $PATH, such as:
+
+```cp fixer_window.sh /your/path``` (/usr/bin/ or ~/bin/fixer_window.sh)
+```chmod +x fixer_window.sh```
+Add a convenient alias to your ~/.bashrc or ~/.zshrc:
+alias your_alias_name ='/your/path' (/usr/bin/ or ~/bin/fixer_window.sh)
+
+```source ~/.bashrc  # or ~/.zshrc```
+
+
 Bind this script to a custom hotkey and summon your lost windows anytime with a single keystroke!
+
